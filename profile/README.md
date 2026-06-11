@@ -1,3 +1,3 @@
 <p align="center">
-<img src="main-image.png" alt="Stux6 Sovereign" >
+<img src="Stux6 Technology.png" alt="Stux6 Sovereign" >
 </p>
